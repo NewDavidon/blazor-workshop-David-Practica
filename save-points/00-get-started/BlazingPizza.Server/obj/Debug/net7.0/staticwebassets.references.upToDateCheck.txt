@@ -1,0 +1,2 @@
+C:\Users\david\Source\Repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\david\Source\Repos\blazor-workshop\save-points\00-get-started\BlazingPizza.ComponentsLibrary\obj\Debug\net7.0\staticwebassets.build.json
